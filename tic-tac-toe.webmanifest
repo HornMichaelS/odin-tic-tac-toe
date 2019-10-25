@@ -1,0 +1,16 @@
+{
+  "name": "Tic-Tac-Toe",
+  "short_name": "TicTacToe",
+  "description": "Play Tic-Tac-Toe in the browser!",
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme-color": "black",
+  "background-color": "black"
+}

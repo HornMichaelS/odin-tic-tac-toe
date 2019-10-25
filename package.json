@@ -1,0 +1,25 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "An in-browser tic-tac-toe game, made for [The Odin Project](https://www.theodinproject.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HornMichaelS/odin-tic-tac-toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HornMichaelS/odin-tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/HornMichaelS/odin-tic-tac-toe#readme",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
