@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/HornMichaelS/odin-tic-tac-toe/issues"
   },
-  "homepage": "https://github.com/HornMichaelS/odin-tic-tac-toe#readme",
-  "devDependencies": {
-    "cssnano": "^4.1.10"
-  }
+  "homepage": "https://github.com/HornMichaelS/odin-tic-tac-toe#readme"
 }
